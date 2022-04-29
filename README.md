@@ -1,4 +1,4 @@
-[ReadMe](https://github.com/Alex4740/The_Other_Guys_P2.git)
+[ReadMe](https://github.com/Alex4740/Project_1.git)
 
 ## Our reimbursement application
 This application was designed so that any employee could login to their employee ticket page to request reiumbursment for their business expenses. They will also be able to view and delete any tickets that they have previously made.
